@@ -1,0 +1,9 @@
+Country,Salary,Age,Purchased
+France,50000,45,Yes
+Italy,20000,50,Yes
+UK,20000,36,No
+Germany,10000,60,No
+Italy,40000,40,Yes
+France,10000,25,No
+France,25000,30,Yes
+France, ,30,Yes

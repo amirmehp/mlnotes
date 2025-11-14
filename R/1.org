@@ -1,0 +1,23 @@
+#+title: Data Pre-proccessing with R
+#+author: Amirmohammad Mehdipour
+
+
+* R Setup
+** Set as working directory
+#+begin_src R
+  setwd("~/w/mlnotes/R")
+#+end_src
+* Libraries we need
+
+* Importing the Dataset
+dataset = read.csv("data.csv")
+
+* Missing Data
+
+* Categorical Data
+
+* Spliting Dataset into Training and Test sets
+
+* Feature Scaling
+
+* Data Preproccessing Template
