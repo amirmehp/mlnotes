@@ -10,8 +10,9 @@
 * Libraries we need
 
 * Importing the Dataset
-dataset = read.csv("data.csv")
-
+#+begin_src R
+  dataset = read.csv("data.csv")
+#+end_src
 * Missing Data
 
 * Categorical Data
